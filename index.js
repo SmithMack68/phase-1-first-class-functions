@@ -7,8 +7,6 @@ function returnsANamedFunction() {
   return function named(){}
 }
 
- 
-
 function returnsAnAnonymousFunction() {
     return function(){
     }
